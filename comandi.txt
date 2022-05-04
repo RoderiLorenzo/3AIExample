@@ -1,0 +1,4 @@
+CLONE: git clone <link>
+ADD: git add <file name>
+COMMIT: git commit
+PUSH: git push
