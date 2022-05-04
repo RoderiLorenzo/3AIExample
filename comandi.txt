@@ -1,4 +1,5 @@
 CLONE: git clone <link>
 ADD: git add <file name>
-COMMIT: git commit
+STAGE: git stage <file name>
+COMMIT: git commit -m "<description>"
 PUSH: git push
